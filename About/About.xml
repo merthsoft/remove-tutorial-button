@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Remove Tutorial Button - dev</name>
+		<author>Shaun McFall</author>
+		<url>https://bitbucket.org/merthsoft/remove-tutorial-button/</url>
+		<supportedVersions>
+			<li>1.0</li>
+		</supportedVersions>
+		<supportedGameVersions>
+			<li>1.1</li>
+		</supportedGameVersions>
+    <packageId>merthsoft.remove-tutorial-button</packageId>
+	<description>Removes the tutorial button from the main menu so it never gets accidentally clicked on.</description>
+</ModMetaData>
