@@ -9,6 +9,6 @@
 		<supportedGameVersions>
 			<li>1.1</li>
 		</supportedGameVersions>
-    <packageId>merthsoft.remove-tutorial-button</packageId>
+    <packageId>Merthsoft.RemoveTutorialButton</packageId>
 	<description>Removes the tutorial button from the main menu so it never gets accidentally clicked on.</description>
 </ModMetaData>
