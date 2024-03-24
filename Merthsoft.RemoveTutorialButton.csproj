@@ -43,7 +43,7 @@
     <None Include="About\Preview.png" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Lib.Harmony" ExcludeAssets="runtime" >
+    <PackageReference Include="Lib.Harmony" ExcludeAssets="runtime">
       <Version>2.0.4</Version>
     </PackageReference>
   </ItemGroup>
